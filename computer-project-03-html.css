@@ -1,0 +1,66 @@
+h1 {
+    position: absolute;
+    top: 0.01mm;
+    font-size: 43px;
+    padding-left: 3cm;
+    font-family: fantasy;
+    color: rgb(252, 202, 0);
+    margin-top: 7px;
+}
+.head {
+    padding-left: 7mm;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(64, 158, 179);
+    margin-top: 8mm;
+}
+.image-logo {
+    width: 19mm;
+    border: 5px solid steelblue;
+}    
+.par {
+    background-color: rgb(120, 214, 169);
+    color: rgb(99, 27, 148);
+    border: 2.7px dashed black;
+    position: absolute;
+    left: 21px;
+    top: 3.4cm;
+}
+
+#deoghar {
+    border: 2.4px double rgb(122, 158, 71);
+    position: absolute;
+    bottom: 75px;
+    left: 4px;
+    background-color: rgb(204, 209, 111);
+}
+.deoghar-img {
+    width: 50mm;
+}
+.deoghar-1 {
+
+}
+.deoghar-rt {
+    color: rgb(196, 67, 41);
+    font-family: monospace;
+}
+.deoghar-why {
+
+}
+
+#goa {
+    border: 2.4px double rgb(28, 133, 165);
+    position: absolute;
+    bottom: 75px;
+    left: 225px;
+    background-color: rgb(99, 168, 96);
+}
+.goa-img {
+    width: 50mm;
+}
+.goa-rt {
+    color: rgb(196, 67, 41);
+    font-family: monospace;
+}
+.goa-why {
+
+}
